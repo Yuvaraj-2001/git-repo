@@ -11,5 +11,3 @@ git 18
 git 19
 git 20
 git 21
-git 22
-git 23
