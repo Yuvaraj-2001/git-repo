@@ -2,7 +2,3 @@ init file
 
 first
 second
-third
-fourth
-fifth
-six
